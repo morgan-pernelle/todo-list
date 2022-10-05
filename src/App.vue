@@ -62,7 +62,7 @@ onMounted(() => {
         <h4>What's on your todo list?</h4>
         <input
           type="text"
-          placeholder="e.g. find a job"
+          placeholder="e.g. Make a list"
           v-model="input_content" />
         
         <h4>Pick a category</h4>

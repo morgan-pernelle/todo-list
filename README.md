@@ -1,4 +1,4 @@
-Simple Todo List application using localStorage to have persistent data after refreshing the page.
+Simple Todo List application using localStorage to have persistent dataafter refreshing the page and through tabs.
 
 The app can be used [here](https://todo-list-peach-theta.vercel.app/).
 
