@@ -1,7 +1,7 @@
 :root {
-	--primary: #EA40A4;
+	--primary: #1AA260;
 	--business: #3A82EE;
-	--personal: var(--primary);
+	--personal: #EA40A4;
 	--light: #EEE;
 	--grey: #888;
 	--dark: #313154;
